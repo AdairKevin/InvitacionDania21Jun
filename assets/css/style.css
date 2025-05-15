@@ -144,7 +144,7 @@
   width: 100%;
   height: auto;
   overflow: hidden;
-  objact-fit: cover;
+  object-fit: cover;
   display: block;
   margin: 0 auto;
   -webkit-mask-image: linear-gradient(to top, black 60%, transparent 100%);
