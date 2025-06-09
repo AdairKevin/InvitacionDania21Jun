@@ -9,10 +9,6 @@ body {
   overflow-x: hidden;
 }
 
-* {
-  text-align: center;
-}
-
 p {
   margin: 0;
   font-size: inherit;
@@ -20,7 +16,8 @@ p {
 
 .center {
   display: flex;
-  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 h1,
